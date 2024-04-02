@@ -34,3 +34,7 @@
 .quote {
     background: #e5e7eb;
 }
+
+.header, .hero, .footer {
+    background: #1F2937;
+}
