@@ -65,6 +65,10 @@ a{
     background-color: #6d747d;
 }
 
+.box{
+    display: flex;
+}
+
 #info-header {
     font-weight: 800;
 }
