@@ -33,10 +33,8 @@
 } */
 
 .quote {
-    background: #e5e7eb;
-    color: #1F2937;
-    font-size: 36px;
     font-style: oblique;
+    background: #e5e7eb;
 }
 
 /* .subtext{
@@ -49,7 +47,7 @@
 
 .big {
     color:#F9FAF8;
-    font-weight: bolder;
+    font-weight: 800;
     font-size: 48px;
 }
 
@@ -65,4 +63,13 @@ button{
 
 .hero button {
     border-style: none;
+}
+
+.quote, #info-header {
+    color: #1F2937;
+    font-size: 36px;
+}
+
+#info-header {
+    font-weight: 800;
 }
