@@ -3,6 +3,10 @@
     padding: 0 ;
   }
 
+body {
+    
+}
+
 ul {
     list-style-type: none;
     display: flex;
@@ -30,7 +34,7 @@ a{
 }
 
 .hero {
-
+    display: flex;
 }
 
 .big {
@@ -54,6 +58,11 @@ a{
 
 .subtext{
 
+}
+
+.fakeimg {
+    display:flex;
+    background-color: #6d747d;
 }
 
 #info-header {
