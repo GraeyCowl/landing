@@ -23,11 +23,11 @@
 .big {
 
 }
-
+ */
 .call {
-
+    background-color: #3882F6;
 }
-
+/* 
 .footer {
 
 } */
@@ -56,4 +56,13 @@
 .subtext, .link {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+button{
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+}
+
+.hero button {
+    border-style: none;
 }
