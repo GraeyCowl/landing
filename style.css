@@ -33,6 +33,9 @@
 
 .quote {
     background: #e5e7eb;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: oblique;
 }
 
 .header, .hero, .footer {
