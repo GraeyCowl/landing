@@ -38,3 +38,9 @@
 .header, .hero, .footer {
     background: #1F2937;
 }
+
+.big {
+    color:#F9FAF8;
+    font-weight: bolder;
+    font-size: 48px;
+}
