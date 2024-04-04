@@ -92,7 +92,11 @@ img.big {
     height: 0;
 }
 
-.img-section
+.img-section {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
 
 #info-header {
     font-weight: 800;
