@@ -93,6 +93,12 @@ img.big {
     height: 0;
 }
 
+.randomheader{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+}
 .img-section {
     display: flex;
     justify-content: center;
@@ -108,19 +114,19 @@ img.big {
     max-width: 350px;
 }
 
-.author { 
-    text-align: right;
-    font-weight: 800;
-}
+#three{}
 
 #four {
     color: #1F2937;
     background: #e5e7eb;
     font-size: 36px;
     font-style: oblique;
-    padding: 50px 150px;
-    margin: 100px 200px;
-    border-radius: 25px;
+    padding: 100px 150px;
+}
+
+.author { 
+    text-align: right;
+    font-weight: 800;
 }
 
 button{
