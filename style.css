@@ -8,6 +8,7 @@ body {}
 
 header{
     background: #1F2937;
+    padding: 20px 90px;
 }
 
 footer{}
@@ -26,7 +27,7 @@ a{
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 8px;
+    /* padding: 8px; */
 }
 
 .logo {
