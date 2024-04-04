@@ -23,6 +23,12 @@ a{
     color: inherit;
   }
 
+h1 {
+    color:#F9FAF8;
+    font-weight: 800;
+    font-size: 48px;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -48,13 +54,6 @@ a{
     margin: auto;
     /* justify-content: center; */
 }
-
-.big {
-    color:#F9FAF8;
-    font-weight: 800;
-    font-size: 48px;
-}
-
 .call {
     background-color: #3882F6;
 }
