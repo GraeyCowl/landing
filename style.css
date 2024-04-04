@@ -85,7 +85,6 @@ img.big {
 
 .box{
     display: flex;
-    flex: 1 1 auto;
     justify-content: center;
 }
 
@@ -109,8 +108,19 @@ img.big {
     max-width: 350px;
 }
 
-#info-header {
+.author { 
+    text-align: right;
     font-weight: 800;
+}
+
+#four {
+    color: #1F2937;
+    background: #e5e7eb;
+    font-size: 36px;
+    font-style: oblique;
+    padding: 50px 150px;
+    margin: 100px 200px;
+    border-radius: 25px;
 }
 
 button{
@@ -136,9 +146,4 @@ button{
 
 .hero, .footer {
     background: #1F2937;
-}
-
-.quote, #info-header {
-    color: #1F2937;
-    font-size: 36px;
 }
