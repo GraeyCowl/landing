@@ -67,7 +67,7 @@ h1 {
 
 .subtext{}
 
-.fakeimg {
+/* .fakeimg {
     display:flex;
     flex: 1 0 auto;
     color: #F9FAF8;
@@ -79,7 +79,7 @@ h1 {
     width: 500px;
     padding: 0;
     margin: auto;
-}
+} */
 
 .box{
     display: flex;
