@@ -15,7 +15,6 @@ footer{}
 
 ul {
     list-style-type: none;
-    display: flex;
     padding: 8px;
   }
 
@@ -27,7 +26,7 @@ a{
 .header {
     display: flex;
     justify-content: space-between;
-    /* padding: 8px; */
+    padding-bottom: 75px;
 }
 
 .logo {
@@ -36,6 +35,9 @@ a{
 }
 
 .link {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
     gap: 25px;
 }
 
