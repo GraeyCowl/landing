@@ -14,3 +14,4 @@ To do;
 -link buttons not just text 'Sign up'
 -CTA 'Sign up' clips past container
 -mobile and dark layouts
+-add header logo
