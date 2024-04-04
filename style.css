@@ -6,7 +6,9 @@
 
 body {}
 
-header{}
+header{
+    background: #1F2937;
+}
 
 footer{}
 
@@ -113,7 +115,7 @@ button{
     align-content: end;
 }
 
-.header, .hero, .footer {
+.hero, .footer {
     background: #1F2937;
 }
 
