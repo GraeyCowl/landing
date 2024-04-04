@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
 
-body {}
+body {justify-content: center;}
 
 header{
     background: #1F2937;
@@ -66,11 +66,11 @@ img.big {
     align-items: center;
     padding: 20px 90px;
 }
-.call {
-    background-color: #3882F6;
-}
 
-.footer {}
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
 
 .quote {
     font-style: oblique;
@@ -114,8 +114,6 @@ img.big {
     max-width: 350px;
 }
 
-#three{}
-
 #four {
     color: #1F2937;
     background: #e5e7eb;
@@ -129,25 +127,35 @@ img.big {
     font-weight: 800;
 }
 
+.call {
+    background-color: #3882F6;
+    color:#E5E7EB;
+    display: flex;
+    padding: 50px 150px;
+    margin: 100px 200px;
+    border-radius: 25px;
+}
+
+.ctatext{
+    padding-right: 75px;
+}
+
+.footer {}
+
 button{
     display: flex;
     color: #F9FAF8;
     background-color: #3882F6;
-    font-size: 17px;
+    font-size: 20px;
     font-family: Georgia;
     border-radius: 10px;
     padding: 8px 25px;
     border: 2px solid #F9FAF8;
 }
 
-.subtext {
-    font-size: 18px;
-    color: #E5E7EB;
-}
 
 .hero button {
     border: 0px none #3882F6;
-    justify-content: center;
 }
 
 .hero, .footer {
