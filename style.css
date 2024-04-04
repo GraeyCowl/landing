@@ -42,7 +42,7 @@ img.big {
 .header {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 25px;
+    padding-bottom: 100px;
 }
 
 .logo {
@@ -60,6 +60,7 @@ img.big {
 .hero {
     display: flex;
     align-items: center;
+    padding: 20px 90px;
 }
 .call {
     background-color: #3882F6;
@@ -72,7 +73,9 @@ img.big {
     background: #e5e7eb;
 }
 
-.subtext{}
+.subtext {
+    padding: 0 350px 35 px;
+}
 
 /* .fakeimg {
     display:flex;
@@ -88,11 +91,11 @@ img.big {
     margin: auto;
 } */
 
-.box{
+/* .box{
     display: flex;
     flex: 1 1 auto;
-    /* justify-content: center; */
-}
+    justify-content: center;
+} */
 
 .break{
     flex-basis: 100%;
