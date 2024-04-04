@@ -11,7 +11,6 @@ https://playground.com/
 
 To do;
 -edit image backgrounds to trasnparent
--fix blockquote p bug
 -link buttons not just text 'Sign up'
 -CTA 'Sign up' clips past container
 -mobile and dark layouts
