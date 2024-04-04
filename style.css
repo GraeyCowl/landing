@@ -59,10 +59,7 @@ img.big {
 
 .hero {
     display: flex;
-    flex: 1 1 auto;
-    padding:100px;
-    margin: auto;
-    /* justify-content: center; */
+    align-items: center;
 }
 .call {
     background-color: #3882F6;
@@ -123,10 +120,8 @@ button{
 }
 
 .hero button {
-    border-style: none;
-    width: 100px;
-    margin: 0 auto;
-    align-content: end;
+    border: 0px none #3882F6;
+    justify-content: center;
 }
 
 .hero, .footer {
