@@ -1,11 +1,12 @@
-*{/* UNIVERSAL MARGIN BYPASS */
+*{/* UNIVERSAL BYPASS */
     margin: 0;
     padding: 0 ;
+    box-sizing: border-box;
   }
 
-body {
-    
-}
+body {}
+
+header{}
 
 ul {
     list-style-type: none;
@@ -51,18 +52,14 @@ a{
     background-color: #3882F6;
 }
 
-.footer {
-
-}
+.footer {}
 
 .quote {
     font-style: oblique;
     background: #e5e7eb;
 }
 
-.subtext{
-
-}
+.subtext{}
 
 .fakeimg {
     display:flex;
