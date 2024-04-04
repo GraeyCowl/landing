@@ -97,11 +97,13 @@ h1 {
 }
 
 button{
+    display: flex;
     color: #F9FAF8;
     background-color: #3882F6;
-    display: flex;
+    font-size: 17px;
+    font-family: Georgia;
     border-radius: 10px;
-    padding: 10px 25px;
+    padding: 8px 25px;
     border: 2px solid #F9FAF8;
 }
 
@@ -124,8 +126,4 @@ button{
 .quote, #info-header {
     color: #1F2937;
     font-size: 36px;
-}
-
-.hero .box{
-    flex-direction: column;
 }
