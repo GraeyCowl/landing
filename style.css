@@ -4,14 +4,14 @@
     box-sizing: border-box;
   }
 
-body {justify-content: center;}
+body {justify-content: center;
+    font-family: Georgia;
+}
 
 header{
     background: #1F2937;
     padding: 20px 90px;
 }
-
-footer{}
 
 ul {
     list-style-type: none;
@@ -63,6 +63,7 @@ img.big {
 
 .hero {
     display: flex;
+    background: #1F2937;
     align-items: center;
     padding: 20px 90px;
 }
@@ -70,6 +71,10 @@ img.big {
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.hero button {
+    border: 0px none #3882F6;
 }
 
 .quote {
@@ -140,24 +145,20 @@ img.big {
     padding-right: 75px;
 }
 
-.footer {}
-
 button{
     display: flex;
     color: #F9FAF8;
     background-color: #3882F6;
     font-size: 20px;
-    font-family: Georgia;
     border-radius: 10px;
     padding: 8px 25px;
     border: 2px solid #F9FAF8;
 }
 
-
-.hero button {
-    border: 0px none #3882F6;
-}
-
-.hero, .footer {
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 40px;
     background: #1F2937;
 }
