@@ -29,6 +29,16 @@ h1 {
     font-size: 48px;
 }
 
+img {
+    width: 150px;
+    height: auto;
+}
+
+img.big {
+    width: 300px;
+    height: auto;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
