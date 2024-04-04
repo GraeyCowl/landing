@@ -15,3 +15,4 @@ To do;
 -CTA 'Sign up' clips past container
 -mobile and dark layouts
 -add header logo
+-remove inevitable redundant code
